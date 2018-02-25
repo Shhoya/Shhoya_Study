@@ -7,4 +7,4 @@ savename="test.png"
 
 urllib.request.urlretrieve(url,savename)
 print(savename + " 파일이 저장되었습니다.")
-#aa
+#aaa
